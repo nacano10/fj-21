@@ -11,7 +11,6 @@ INDEX VERSION 1.131+C:\Users\Teste\Desktop\cursos\workspaces eclipse\FJ21\.metad
 571617803.index
 1141862750.index
 1607099923.index
-1946366197.index
 2341682796.index
 344532383.index
 1294486654.index
