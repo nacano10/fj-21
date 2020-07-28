@@ -4,6 +4,7 @@
 <html>
 <head>
 	<script type="text/javascript" src="resources/js/jquery.js"></script>
+	<link type="text/css" href="resources/css/tarefas.css" rel="stylesheet" />
 </head>
 <body>
 	<script type="text/javascript">
