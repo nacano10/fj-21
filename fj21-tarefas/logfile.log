@@ -1,0 +1,495 @@
+2020-07-29 14:57:11 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2020-07-29 14:57:11 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {4.2.0.Final}
+2020-07-29 14:57:11 INFO  org.hibernate.cfg.Environment     - HHH000206: hibernate.properties not found
+2020-07-29 14:57:11 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2020-07-29 15:07:14 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2020-07-29 15:07:14 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {4.2.0.Final}
+2020-07-29 15:07:14 INFO  org.hibernate.cfg.Environment     - HHH000206: hibernate.properties not found
+2020-07-29 15:07:14 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2020-07-29 15:08:43 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2020-07-29 15:08:43 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {4.2.0.Final}
+2020-07-29 15:08:43 INFO  org.hibernate.cfg.Environment     - HHH000206: hibernate.properties not found
+2020-07-29 15:08:43 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2020-07-29 15:10:59 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2020-07-29 15:10:59 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {4.2.0.Final}
+2020-07-29 15:10:59 INFO  org.hibernate.cfg.Environment     - HHH000205: Loaded properties from resource hibernate.properties: {hibernate.connection.driver_class=com.mysql.jdbc.Driver, hibernate.format_sql=true, hibernate.dialect=org.hibernate.dialect.MySQLDialect, hibernate.connection.password=****, hibernate.connection.username=root, hibernate.connection.url=jdbc:mysql://localhost/fj21, hibernate.bytecode.use_reflection_optimizer=false, hibernate.show_sql=true}
+2020-07-29 15:10:59 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2020-07-29 16:02:23 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2020-07-29 16:02:23 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {4.2.0.Final}
+2020-07-29 16:02:23 INFO  org.hibernate.cfg.Environment     - HHH000205: Loaded properties from resource hibernate.properties: {hibernate.connection.driver_class=com.mysql.jdbc.Driver, hibernate.format_sql=true, hibernate.dialect=org.hibernate.dialect.MySQLDialect, hibernate.connection.password=****, hibernate.connection.username=root, hibernate.connection.url=jdbc:mysql://localhost/fj21, hibernate.bytecode.use_reflection_optimizer=false, hibernate.show_sql=true}
+2020-07-29 16:02:23 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2020-07-29 16:02:24 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-07-29 16:02:24 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 20
+2020-07-29 16:02:24 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000006: Autocommit mode: true
+2020-07-29 16:02:24 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost/fj21]
+2020-07-29 16:02:24 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000046: Connection properties: {password=****, autocommit=true, release_mode=auto, user=root}
+2020-07-29 16:02:24 WARN  org.hibernate.engine.jdbc.internal.JdbcServicesImpl     - HHH000342: Could not obtain connection to query metadata : The server time zone value 'Hora oficial do Brasil' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2020-07-29 16:04:16 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2020-07-29 16:04:16 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {4.2.0.Final}
+2020-07-29 16:04:16 INFO  org.hibernate.cfg.Environment     - HHH000205: Loaded properties from resource hibernate.properties: {hibernate.connection.driver_class=com.mysql.jdbc.Driver, hibernate.format_sql=true, hibernate.dialect=org.hibernate.dialect.MySQLDialect, hibernate.connection.password=****, hibernate.connection.username=root, hibernate.connection.url=jdbc:mysql://localhost/fj21, hibernate.bytecode.use_reflection_optimizer=false, hibernate.show_sql=true}
+2020-07-29 16:04:16 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2020-07-29 16:04:16 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-07-29 16:04:16 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 20
+2020-07-29 16:04:16 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000006: Autocommit mode: true
+2020-07-29 16:04:16 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost/fj21]
+2020-07-29 16:04:16 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000046: Connection properties: {password=****, autocommit=true, release_mode=auto, user=root}
+2020-07-29 16:04:16 WARN  org.hibernate.engine.jdbc.internal.JdbcServicesImpl     - HHH000342: Could not obtain connection to query metadata : The server time zone value 'Hora oficial do Brasil' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2020-07-29 16:04:16 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2020-07-29 16:04:16 INFO  org.hibernate.engine.jdbc.internal.LobCreatorBuilder     - HHH000422: Disabling contextual LOB creation as connection was null
+2020-07-29 16:04:16 INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator     - HHH000268: Transaction strategy: org.hibernate.engine.transaction.internal.jdbc.JdbcTransactionFactory
+2020-07-29 16:04:16 INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory     - HHH000397: Using ASTQueryTranslatorFactory
+2020-07-29 16:04:16 INFO  org.hibernate.validator.internal.util.Version     - HV000001: Hibernate Validator 4.3.1.Final
+2020-07-29 16:04:17 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000228: Running hbm2ddl schema update
+2020-07-29 16:04:17 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000102: Fetching database metadata
+2020-07-29 16:04:17 ERROR org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000319: Could not get database metadata
+java.sql.SQLException: The server time zone value 'Hora oficial do Brasil' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:76)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:836)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:456)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:197)
+	at org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.getConnection(DriverManagerConnectionProviderImpl.java:204)
+	at org.hibernate.tool.hbm2ddl.SuppliedConnectionProviderConnectionHelper.prepare(SuppliedConnectionProviderConnectionHelper.java:51)
+	at org.hibernate.tool.hbm2ddl.SchemaUpdate.execute(SchemaUpdate.java:194)
+	at org.hibernate.tool.hbm2ddl.SchemaUpdate.execute(SchemaUpdate.java:178)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:505)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1750)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.<init>(EntityManagerFactoryImpl.java:94)
+	at org.hibernate.ejb.Ejb3Configuration.buildEntityManagerFactory(Ejb3Configuration.java:920)
+	at org.hibernate.ejb.Ejb3Configuration.buildEntityManagerFactory(Ejb3Configuration.java:904)
+	at org.hibernate.ejb.HibernatePersistence.createEntityManagerFactory(HibernatePersistence.java:72)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:63)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:47)
+	at br.com.caelum.tarefas.jpa.GeraTabelas.main(GeraTabelas.java:9)
+Caused by: com.mysql.cj.exceptions.InvalidConnectionAttributeException: The server time zone value 'Hora oficial do Brasil' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:85)
+	at com.mysql.cj.util.TimeUtil.getCanonicalTimezone(TimeUtil.java:132)
+	at com.mysql.cj.protocol.a.NativeProtocol.configureTimezone(NativeProtocol.java:2120)
+	at com.mysql.cj.protocol.a.NativeProtocol.initServerSession(NativeProtocol.java:2143)
+	at com.mysql.cj.jdbc.ConnectionImpl.initializePropsFromServer(ConnectionImpl.java:1310)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:967)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:826)
+	... 16 more
+2020-07-29 16:04:17 ERROR org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000299: Could not complete schema update
+java.sql.SQLException: The server time zone value 'Hora oficial do Brasil' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:76)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:836)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:456)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:197)
+	at org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.getConnection(DriverManagerConnectionProviderImpl.java:204)
+	at org.hibernate.tool.hbm2ddl.SuppliedConnectionProviderConnectionHelper.prepare(SuppliedConnectionProviderConnectionHelper.java:51)
+	at org.hibernate.tool.hbm2ddl.SchemaUpdate.execute(SchemaUpdate.java:194)
+	at org.hibernate.tool.hbm2ddl.SchemaUpdate.execute(SchemaUpdate.java:178)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:505)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1750)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.<init>(EntityManagerFactoryImpl.java:94)
+	at org.hibernate.ejb.Ejb3Configuration.buildEntityManagerFactory(Ejb3Configuration.java:920)
+	at org.hibernate.ejb.Ejb3Configuration.buildEntityManagerFactory(Ejb3Configuration.java:904)
+	at org.hibernate.ejb.HibernatePersistence.createEntityManagerFactory(HibernatePersistence.java:72)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:63)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:47)
+	at br.com.caelum.tarefas.jpa.GeraTabelas.main(GeraTabelas.java:9)
+Caused by: com.mysql.cj.exceptions.InvalidConnectionAttributeException: The server time zone value 'Hora oficial do Brasil' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:85)
+	at com.mysql.cj.util.TimeUtil.getCanonicalTimezone(TimeUtil.java:132)
+	at com.mysql.cj.protocol.a.NativeProtocol.configureTimezone(NativeProtocol.java:2120)
+	at com.mysql.cj.protocol.a.NativeProtocol.initServerSession(NativeProtocol.java:2143)
+	at com.mysql.cj.jdbc.ConnectionImpl.initializePropsFromServer(ConnectionImpl.java:1310)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:967)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:826)
+	... 16 more
+2020-07-29 16:04:17 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000030: Cleaning up connection pool [jdbc:mysql://localhost/fj21]
+2020-07-29 16:04:45 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2020-07-29 16:04:45 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {4.2.0.Final}
+2020-07-29 16:04:45 INFO  org.hibernate.cfg.Environment     - HHH000205: Loaded properties from resource hibernate.properties: {hibernate.connection.driver_class=com.mysql.jdbc.Driver, hibernate.format_sql=true, hibernate.dialect=org.hibernate.dialect.MySQLDialect, hibernate.connection.password=****, hibernate.connection.username=root, hibernate.connection.url=jdbc:mysql://localhost/fj21, hibernate.bytecode.use_reflection_optimizer=false, hibernate.show_sql=true}
+2020-07-29 16:04:45 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2020-07-29 16:06:55 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2020-07-29 16:06:55 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {4.2.0.Final}
+2020-07-29 16:06:55 INFO  org.hibernate.cfg.Environment     - HHH000205: Loaded properties from resource hibernate.properties: {hibernate.connection.driver_class=com.mysql.jdbc.Driver, hibernate.format_sql=true, hibernate.dialect=org.hibernate.dialect.MySQLDialect, hibernate.connection.password=****, hibernate.connection.username=root, hibernate.connection.url=jdbc:mysql://localhost/fj21, hibernate.bytecode.use_reflection_optimizer=false, hibernate.show_sql=true}
+2020-07-29 16:06:55 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2020-07-29 16:07:31 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2020-07-29 16:07:31 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {4.2.0.Final}
+2020-07-29 16:07:31 INFO  org.hibernate.cfg.Environment     - HHH000205: Loaded properties from resource hibernate.properties: {hibernate.connection.driver_class=com.mysql.jdbc.Driver, hibernate.format_sql=true, hibernate.dialect=org.hibernate.dialect.MySQLDialect, hibernate.connection.password=****, hibernate.connection.username=root, hibernate.connection.url=jdbc:mysql://localhost/fj21, hibernate.bytecode.use_reflection_optimizer=false, hibernate.show_sql=true}
+2020-07-29 16:07:31 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2020-07-29 16:07:31 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-07-29 16:07:31 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 20
+2020-07-29 16:07:31 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000006: Autocommit mode: true
+2020-07-29 16:07:31 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost/fj21?useTimezone]
+2020-07-29 16:07:31 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000046: Connection properties: {password=****, autocommit=true, release_mode=auto, user=root}
+2020-07-29 16:07:32 WARN  org.hibernate.engine.jdbc.internal.JdbcServicesImpl     - HHH000342: Could not obtain connection to query metadata : The server time zone value 'Hora oficial do Brasil' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2020-07-29 16:07:32 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2020-07-29 16:07:32 INFO  org.hibernate.engine.jdbc.internal.LobCreatorBuilder     - HHH000422: Disabling contextual LOB creation as connection was null
+2020-07-29 16:07:32 INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator     - HHH000268: Transaction strategy: org.hibernate.engine.transaction.internal.jdbc.JdbcTransactionFactory
+2020-07-29 16:07:32 INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory     - HHH000397: Using ASTQueryTranslatorFactory
+2020-07-29 16:07:32 INFO  org.hibernate.validator.internal.util.Version     - HV000001: Hibernate Validator 4.3.1.Final
+2020-07-29 16:07:32 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000228: Running hbm2ddl schema update
+2020-07-29 16:07:32 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000102: Fetching database metadata
+2020-07-29 16:07:32 ERROR org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000319: Could not get database metadata
+java.sql.SQLException: The server time zone value 'Hora oficial do Brasil' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:76)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:836)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:456)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:197)
+	at org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.getConnection(DriverManagerConnectionProviderImpl.java:204)
+	at org.hibernate.tool.hbm2ddl.SuppliedConnectionProviderConnectionHelper.prepare(SuppliedConnectionProviderConnectionHelper.java:51)
+	at org.hibernate.tool.hbm2ddl.SchemaUpdate.execute(SchemaUpdate.java:194)
+	at org.hibernate.tool.hbm2ddl.SchemaUpdate.execute(SchemaUpdate.java:178)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:505)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1750)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.<init>(EntityManagerFactoryImpl.java:94)
+	at org.hibernate.ejb.Ejb3Configuration.buildEntityManagerFactory(Ejb3Configuration.java:920)
+	at org.hibernate.ejb.Ejb3Configuration.buildEntityManagerFactory(Ejb3Configuration.java:904)
+	at org.hibernate.ejb.HibernatePersistence.createEntityManagerFactory(HibernatePersistence.java:72)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:63)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:47)
+	at br.com.caelum.tarefas.jpa.GeraTabelas.main(GeraTabelas.java:9)
+Caused by: com.mysql.cj.exceptions.InvalidConnectionAttributeException: The server time zone value 'Hora oficial do Brasil' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:85)
+	at com.mysql.cj.util.TimeUtil.getCanonicalTimezone(TimeUtil.java:132)
+	at com.mysql.cj.protocol.a.NativeProtocol.configureTimezone(NativeProtocol.java:2120)
+	at com.mysql.cj.protocol.a.NativeProtocol.initServerSession(NativeProtocol.java:2143)
+	at com.mysql.cj.jdbc.ConnectionImpl.initializePropsFromServer(ConnectionImpl.java:1310)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:967)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:826)
+	... 16 more
+2020-07-29 16:07:32 ERROR org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000299: Could not complete schema update
+java.sql.SQLException: The server time zone value 'Hora oficial do Brasil' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:76)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:836)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:456)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:197)
+	at org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.getConnection(DriverManagerConnectionProviderImpl.java:204)
+	at org.hibernate.tool.hbm2ddl.SuppliedConnectionProviderConnectionHelper.prepare(SuppliedConnectionProviderConnectionHelper.java:51)
+	at org.hibernate.tool.hbm2ddl.SchemaUpdate.execute(SchemaUpdate.java:194)
+	at org.hibernate.tool.hbm2ddl.SchemaUpdate.execute(SchemaUpdate.java:178)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:505)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1750)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.<init>(EntityManagerFactoryImpl.java:94)
+	at org.hibernate.ejb.Ejb3Configuration.buildEntityManagerFactory(Ejb3Configuration.java:920)
+	at org.hibernate.ejb.Ejb3Configuration.buildEntityManagerFactory(Ejb3Configuration.java:904)
+	at org.hibernate.ejb.HibernatePersistence.createEntityManagerFactory(HibernatePersistence.java:72)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:63)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:47)
+	at br.com.caelum.tarefas.jpa.GeraTabelas.main(GeraTabelas.java:9)
+Caused by: com.mysql.cj.exceptions.InvalidConnectionAttributeException: The server time zone value 'Hora oficial do Brasil' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:85)
+	at com.mysql.cj.util.TimeUtil.getCanonicalTimezone(TimeUtil.java:132)
+	at com.mysql.cj.protocol.a.NativeProtocol.configureTimezone(NativeProtocol.java:2120)
+	at com.mysql.cj.protocol.a.NativeProtocol.initServerSession(NativeProtocol.java:2143)
+	at com.mysql.cj.jdbc.ConnectionImpl.initializePropsFromServer(ConnectionImpl.java:1310)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:967)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:826)
+	... 16 more
+2020-07-29 16:07:32 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000030: Cleaning up connection pool [jdbc:mysql://localhost/fj21?useTimezone]
+2020-07-29 16:08:01 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2020-07-29 16:08:01 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {4.2.0.Final}
+2020-07-29 16:08:01 INFO  org.hibernate.cfg.Environment     - HHH000205: Loaded properties from resource hibernate.properties: {hibernate.connection.driver_class=com.mysql.jdbc.Driver, hibernate.format_sql=true, hibernate.dialect=org.hibernate.dialect.MySQLDialect, hibernate.connection.password=****, hibernate.connection.username=root, hibernate.connection.url=jdbc:mysql://localhost/fj21, hibernate.bytecode.use_reflection_optimizer=false, hibernate.show_sql=true}
+2020-07-29 16:08:01 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2020-07-29 16:08:02 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-07-29 16:08:02 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 20
+2020-07-29 16:08:02 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000006: Autocommit mode: true
+2020-07-29 16:08:02 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost/fj21?useTimezone=true]
+2020-07-29 16:08:02 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000046: Connection properties: {password=****, autocommit=true, release_mode=auto, user=root}
+2020-07-29 16:08:02 WARN  org.hibernate.engine.jdbc.internal.JdbcServicesImpl     - HHH000342: Could not obtain connection to query metadata : The server time zone value 'Hora oficial do Brasil' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+2020-07-29 16:08:02 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2020-07-29 16:08:02 INFO  org.hibernate.engine.jdbc.internal.LobCreatorBuilder     - HHH000422: Disabling contextual LOB creation as connection was null
+2020-07-29 16:08:02 INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator     - HHH000268: Transaction strategy: org.hibernate.engine.transaction.internal.jdbc.JdbcTransactionFactory
+2020-07-29 16:08:02 INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory     - HHH000397: Using ASTQueryTranslatorFactory
+2020-07-29 16:08:02 INFO  org.hibernate.validator.internal.util.Version     - HV000001: Hibernate Validator 4.3.1.Final
+2020-07-29 16:08:03 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000228: Running hbm2ddl schema update
+2020-07-29 16:08:03 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000102: Fetching database metadata
+2020-07-29 16:08:03 ERROR org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000319: Could not get database metadata
+java.sql.SQLException: The server time zone value 'Hora oficial do Brasil' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:76)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:836)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:456)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:197)
+	at org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.getConnection(DriverManagerConnectionProviderImpl.java:204)
+	at org.hibernate.tool.hbm2ddl.SuppliedConnectionProviderConnectionHelper.prepare(SuppliedConnectionProviderConnectionHelper.java:51)
+	at org.hibernate.tool.hbm2ddl.SchemaUpdate.execute(SchemaUpdate.java:194)
+	at org.hibernate.tool.hbm2ddl.SchemaUpdate.execute(SchemaUpdate.java:178)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:505)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1750)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.<init>(EntityManagerFactoryImpl.java:94)
+	at org.hibernate.ejb.Ejb3Configuration.buildEntityManagerFactory(Ejb3Configuration.java:920)
+	at org.hibernate.ejb.Ejb3Configuration.buildEntityManagerFactory(Ejb3Configuration.java:904)
+	at org.hibernate.ejb.HibernatePersistence.createEntityManagerFactory(HibernatePersistence.java:72)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:63)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:47)
+	at br.com.caelum.tarefas.jpa.GeraTabelas.main(GeraTabelas.java:9)
+Caused by: com.mysql.cj.exceptions.InvalidConnectionAttributeException: The server time zone value 'Hora oficial do Brasil' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:85)
+	at com.mysql.cj.util.TimeUtil.getCanonicalTimezone(TimeUtil.java:132)
+	at com.mysql.cj.protocol.a.NativeProtocol.configureTimezone(NativeProtocol.java:2120)
+	at com.mysql.cj.protocol.a.NativeProtocol.initServerSession(NativeProtocol.java:2143)
+	at com.mysql.cj.jdbc.ConnectionImpl.initializePropsFromServer(ConnectionImpl.java:1310)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:967)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:826)
+	... 16 more
+2020-07-29 16:08:03 ERROR org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000299: Could not complete schema update
+java.sql.SQLException: The server time zone value 'Hora oficial do Brasil' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:73)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:76)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:836)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:456)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:197)
+	at org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.getConnection(DriverManagerConnectionProviderImpl.java:204)
+	at org.hibernate.tool.hbm2ddl.SuppliedConnectionProviderConnectionHelper.prepare(SuppliedConnectionProviderConnectionHelper.java:51)
+	at org.hibernate.tool.hbm2ddl.SchemaUpdate.execute(SchemaUpdate.java:194)
+	at org.hibernate.tool.hbm2ddl.SchemaUpdate.execute(SchemaUpdate.java:178)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:505)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1750)
+	at org.hibernate.ejb.EntityManagerFactoryImpl.<init>(EntityManagerFactoryImpl.java:94)
+	at org.hibernate.ejb.Ejb3Configuration.buildEntityManagerFactory(Ejb3Configuration.java:920)
+	at org.hibernate.ejb.Ejb3Configuration.buildEntityManagerFactory(Ejb3Configuration.java:904)
+	at org.hibernate.ejb.HibernatePersistence.createEntityManagerFactory(HibernatePersistence.java:72)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:63)
+	at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:47)
+	at br.com.caelum.tarefas.jpa.GeraTabelas.main(GeraTabelas.java:9)
+Caused by: com.mysql.cj.exceptions.InvalidConnectionAttributeException: The server time zone value 'Hora oficial do Brasil' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:85)
+	at com.mysql.cj.util.TimeUtil.getCanonicalTimezone(TimeUtil.java:132)
+	at com.mysql.cj.protocol.a.NativeProtocol.configureTimezone(NativeProtocol.java:2120)
+	at com.mysql.cj.protocol.a.NativeProtocol.initServerSession(NativeProtocol.java:2143)
+	at com.mysql.cj.jdbc.ConnectionImpl.initializePropsFromServer(ConnectionImpl.java:1310)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:967)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:826)
+	... 16 more
+2020-07-29 16:08:03 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000030: Cleaning up connection pool [jdbc:mysql://localhost/fj21?useTimezone=true]
+2020-07-29 16:08:56 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2020-07-29 16:08:56 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {4.2.0.Final}
+2020-07-29 16:08:56 INFO  org.hibernate.cfg.Environment     - HHH000205: Loaded properties from resource hibernate.properties: {hibernate.connection.driver_class=com.mysql.jdbc.Driver, hibernate.format_sql=true, hibernate.dialect=org.hibernate.dialect.MySQLDialect, hibernate.connection.password=****, hibernate.connection.username=root, hibernate.connection.url=jdbc:mysql://localhost/fj21, hibernate.bytecode.use_reflection_optimizer=false, hibernate.show_sql=true}
+2020-07-29 16:08:56 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2020-07-29 16:08:57 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-07-29 16:08:57 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 20
+2020-07-29 16:08:57 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000006: Autocommit mode: true
+2020-07-29 16:08:57 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost/fj21?serverTimezone=UTC]
+2020-07-29 16:08:57 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000046: Connection properties: {password=****, autocommit=true, release_mode=auto, user=root}
+2020-07-29 16:08:57 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2020-07-29 16:08:57 INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator     - HHH000268: Transaction strategy: org.hibernate.engine.transaction.internal.jdbc.JdbcTransactionFactory
+2020-07-29 16:08:57 INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory     - HHH000397: Using ASTQueryTranslatorFactory
+2020-07-29 16:08:57 INFO  org.hibernate.validator.internal.util.Version     - HV000001: Hibernate Validator 4.3.1.Final
+2020-07-29 16:08:58 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000228: Running hbm2ddl schema update
+2020-07-29 16:08:58 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000102: Fetching database metadata
+2020-07-29 16:08:58 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000396: Updating schema
+2020-07-29 16:08:58 INFO  java.sql.DatabaseMetaData     - HHH000262: Table not found: Tarefa
+2020-07-29 16:08:58 INFO  java.sql.DatabaseMetaData     - HHH000262: Table not found: Tarefa
+2020-07-29 16:08:58 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000232: Schema update complete
+2020-07-29 16:08:58 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000030: Cleaning up connection pool [jdbc:mysql://localhost/fj21?serverTimezone=UTC]
+2020-07-29 16:22:24 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2020-07-29 16:22:24 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {4.2.0.Final}
+2020-07-29 16:22:24 INFO  org.hibernate.cfg.Environment     - HHH000205: Loaded properties from resource hibernate.properties: {hibernate.connection.driver_class=com.mysql.jdbc.Driver, hibernate.format_sql=true, hibernate.dialect=org.hibernate.dialect.MySQLDialect, hibernate.connection.password=****, hibernate.connection.username=root, hibernate.connection.url=jdbc:mysql://localhost/fj21, hibernate.bytecode.use_reflection_optimizer=false, hibernate.show_sql=true}
+2020-07-29 16:22:24 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2020-07-29 16:22:24 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-07-29 16:22:24 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 20
+2020-07-29 16:22:24 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000006: Autocommit mode: true
+2020-07-29 16:22:24 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost/fj21?serverTimezone=UTC]
+2020-07-29 16:22:24 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000046: Connection properties: {password=****, autocommit=true, release_mode=auto, user=root}
+2020-07-29 16:22:25 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2020-07-29 16:22:25 INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator     - HHH000268: Transaction strategy: org.hibernate.engine.transaction.internal.jdbc.JdbcTransactionFactory
+2020-07-29 16:22:25 INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory     - HHH000397: Using ASTQueryTranslatorFactory
+2020-07-29 16:22:25 INFO  org.hibernate.validator.internal.util.Version     - HV000001: Hibernate Validator 4.3.1.Final
+2020-07-29 16:22:25 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000228: Running hbm2ddl schema update
+2020-07-29 16:22:25 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000102: Fetching database metadata
+2020-07-29 16:22:25 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000396: Updating schema
+2020-07-29 16:22:25 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000261: Table found: fj21.tarefa
+2020-07-29 16:22:25 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000037: Columns: [datafinalizacao, id, finalizado, descricao]
+2020-07-29 16:22:25 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000108: Foreign keys: []
+2020-07-29 16:22:25 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000126: Indexes: [primary]
+2020-07-29 16:22:25 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000232: Schema update complete
+2020-07-29 16:26:17 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2020-07-29 16:26:17 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {4.2.0.Final}
+2020-07-29 16:26:17 INFO  org.hibernate.cfg.Environment     - HHH000205: Loaded properties from resource hibernate.properties: {hibernate.connection.driver_class=com.mysql.jdbc.Driver, hibernate.format_sql=true, hibernate.dialect=org.hibernate.dialect.MySQLDialect, hibernate.connection.password=****, hibernate.connection.username=root, hibernate.connection.url=jdbc:mysql://localhost/fj21, hibernate.bytecode.use_reflection_optimizer=false, hibernate.show_sql=true}
+2020-07-29 16:26:17 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2020-07-29 16:26:18 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-07-29 16:26:18 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 20
+2020-07-29 16:26:18 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000006: Autocommit mode: true
+2020-07-29 16:26:18 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost/fj21?serverTimezone=UTC]
+2020-07-29 16:26:18 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000046: Connection properties: {password=****, autocommit=true, release_mode=auto, user=root}
+2020-07-29 16:26:18 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2020-07-29 16:26:18 INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator     - HHH000268: Transaction strategy: org.hibernate.engine.transaction.internal.jdbc.JdbcTransactionFactory
+2020-07-29 16:26:18 INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory     - HHH000397: Using ASTQueryTranslatorFactory
+2020-07-29 16:26:18 INFO  org.hibernate.validator.internal.util.Version     - HV000001: Hibernate Validator 4.3.1.Final
+2020-07-29 16:26:18 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000228: Running hbm2ddl schema update
+2020-07-29 16:26:18 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000102: Fetching database metadata
+2020-07-29 16:26:18 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000396: Updating schema
+2020-07-29 16:26:18 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000261: Table found: fj21.tarefa
+2020-07-29 16:26:18 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000037: Columns: [datafinalizacao, id, finalizado, descricao]
+2020-07-29 16:26:18 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000108: Foreign keys: []
+2020-07-29 16:26:18 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000126: Indexes: [primary]
+2020-07-29 16:26:18 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000232: Schema update complete
+2020-07-29 16:34:34 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2020-07-29 16:34:34 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {4.2.0.Final}
+2020-07-29 16:34:34 INFO  org.hibernate.cfg.Environment     - HHH000205: Loaded properties from resource hibernate.properties: {hibernate.connection.driver_class=com.mysql.jdbc.Driver, hibernate.format_sql=true, hibernate.dialect=org.hibernate.dialect.MySQLDialect, hibernate.connection.password=****, hibernate.connection.username=root, hibernate.connection.url=jdbc:mysql://localhost/fj21, hibernate.bytecode.use_reflection_optimizer=false, hibernate.show_sql=true}
+2020-07-29 16:34:34 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2020-07-29 16:34:35 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-07-29 16:34:35 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 20
+2020-07-29 16:34:35 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000006: Autocommit mode: true
+2020-07-29 16:34:35 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost/fj21?serverTimezone=UTC]
+2020-07-29 16:34:35 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000046: Connection properties: {password=****, autocommit=true, release_mode=auto, user=root}
+2020-07-29 16:34:35 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2020-07-29 16:34:35 INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator     - HHH000268: Transaction strategy: org.hibernate.engine.transaction.internal.jdbc.JdbcTransactionFactory
+2020-07-29 16:34:35 INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory     - HHH000397: Using ASTQueryTranslatorFactory
+2020-07-29 16:34:35 INFO  org.hibernate.validator.internal.util.Version     - HV000001: Hibernate Validator 4.3.1.Final
+2020-07-29 16:34:36 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000228: Running hbm2ddl schema update
+2020-07-29 16:34:36 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000102: Fetching database metadata
+2020-07-29 16:34:36 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000396: Updating schema
+2020-07-29 16:34:36 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000261: Table found: fj21.tarefa
+2020-07-29 16:34:36 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000037: Columns: [datafinalizacao, id, finalizado, descricao]
+2020-07-29 16:34:36 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000108: Foreign keys: []
+2020-07-29 16:34:36 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000126: Indexes: [primary]
+2020-07-29 16:34:36 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000232: Schema update complete
+2020-07-29 16:35:45 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2020-07-29 16:35:45 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {4.2.0.Final}
+2020-07-29 16:35:45 INFO  org.hibernate.cfg.Environment     - HHH000205: Loaded properties from resource hibernate.properties: {hibernate.connection.driver_class=com.mysql.jdbc.Driver, hibernate.format_sql=true, hibernate.dialect=org.hibernate.dialect.MySQLDialect, hibernate.connection.password=****, hibernate.connection.username=root, hibernate.connection.url=jdbc:mysql://localhost/fj21, hibernate.bytecode.use_reflection_optimizer=false, hibernate.show_sql=true}
+2020-07-29 16:35:45 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2020-07-29 16:35:46 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-07-29 16:35:46 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 20
+2020-07-29 16:35:46 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000006: Autocommit mode: true
+2020-07-29 16:35:46 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost/fj21?serverTimezone=UTC]
+2020-07-29 16:35:46 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000046: Connection properties: {password=****, autocommit=true, release_mode=auto, user=root}
+2020-07-29 16:35:46 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2020-07-29 16:35:46 INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator     - HHH000268: Transaction strategy: org.hibernate.engine.transaction.internal.jdbc.JdbcTransactionFactory
+2020-07-29 16:35:46 INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory     - HHH000397: Using ASTQueryTranslatorFactory
+2020-07-29 16:35:46 INFO  org.hibernate.validator.internal.util.Version     - HV000001: Hibernate Validator 4.3.1.Final
+2020-07-29 16:35:47 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000228: Running hbm2ddl schema update
+2020-07-29 16:35:47 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000102: Fetching database metadata
+2020-07-29 16:35:47 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000396: Updating schema
+2020-07-29 16:35:47 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000261: Table found: fj21.tarefa
+2020-07-29 16:35:47 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000037: Columns: [datafinalizacao, id, finalizado, descricao]
+2020-07-29 16:35:47 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000108: Foreign keys: []
+2020-07-29 16:35:47 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000126: Indexes: [primary]
+2020-07-29 16:35:47 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000232: Schema update complete
+2020-07-29 16:39:09 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2020-07-29 16:39:09 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {4.2.0.Final}
+2020-07-29 16:39:09 INFO  org.hibernate.cfg.Environment     - HHH000205: Loaded properties from resource hibernate.properties: {hibernate.connection.driver_class=com.mysql.jdbc.Driver, hibernate.format_sql=true, hibernate.dialect=org.hibernate.dialect.MySQLDialect, hibernate.connection.password=****, hibernate.connection.username=root, hibernate.connection.url=jdbc:mysql://localhost/fj21, hibernate.bytecode.use_reflection_optimizer=false, hibernate.show_sql=true}
+2020-07-29 16:39:09 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2020-07-29 16:39:10 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-07-29 16:39:10 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 20
+2020-07-29 16:39:10 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000006: Autocommit mode: true
+2020-07-29 16:39:10 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost/fj21?serverTimezone=UTC]
+2020-07-29 16:39:10 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000046: Connection properties: {password=****, autocommit=true, release_mode=auto, user=root}
+2020-07-29 16:39:10 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2020-07-29 16:39:10 INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator     - HHH000268: Transaction strategy: org.hibernate.engine.transaction.internal.jdbc.JdbcTransactionFactory
+2020-07-29 16:39:10 INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory     - HHH000397: Using ASTQueryTranslatorFactory
+2020-07-29 16:39:10 INFO  org.hibernate.validator.internal.util.Version     - HV000001: Hibernate Validator 4.3.1.Final
+2020-07-29 16:39:10 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000228: Running hbm2ddl schema update
+2020-07-29 16:39:10 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000102: Fetching database metadata
+2020-07-29 16:39:10 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000396: Updating schema
+2020-07-29 16:39:10 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000261: Table found: fj21.tarefa
+2020-07-29 16:39:10 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000037: Columns: [datafinalizacao, id, finalizado, descricao]
+2020-07-29 16:39:10 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000108: Foreign keys: []
+2020-07-29 16:39:10 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000126: Indexes: [primary]
+2020-07-29 16:39:10 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000232: Schema update complete
+2020-07-29 16:39:30 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2020-07-29 16:39:30 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {4.2.0.Final}
+2020-07-29 16:39:30 INFO  org.hibernate.cfg.Environment     - HHH000205: Loaded properties from resource hibernate.properties: {hibernate.connection.driver_class=com.mysql.jdbc.Driver, hibernate.format_sql=true, hibernate.dialect=org.hibernate.dialect.MySQLDialect, hibernate.connection.password=****, hibernate.connection.username=root, hibernate.connection.url=jdbc:mysql://localhost/fj21, hibernate.bytecode.use_reflection_optimizer=false, hibernate.show_sql=true}
+2020-07-29 16:39:30 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2020-07-29 16:39:30 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-07-29 16:39:30 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 20
+2020-07-29 16:39:30 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000006: Autocommit mode: true
+2020-07-29 16:39:30 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost/fj21?serverTimezone=UTC]
+2020-07-29 16:39:30 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000046: Connection properties: {password=****, autocommit=true, release_mode=auto, user=root}
+2020-07-29 16:39:31 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2020-07-29 16:39:31 INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator     - HHH000268: Transaction strategy: org.hibernate.engine.transaction.internal.jdbc.JdbcTransactionFactory
+2020-07-29 16:39:31 INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory     - HHH000397: Using ASTQueryTranslatorFactory
+2020-07-29 16:39:31 INFO  org.hibernate.validator.internal.util.Version     - HV000001: Hibernate Validator 4.3.1.Final
+2020-07-29 16:39:31 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000228: Running hbm2ddl schema update
+2020-07-29 16:39:31 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000102: Fetching database metadata
+2020-07-29 16:39:31 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000396: Updating schema
+2020-07-29 16:39:31 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000261: Table found: fj21.tarefa
+2020-07-29 16:39:31 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000037: Columns: [datafinalizacao, id, finalizado, descricao]
+2020-07-29 16:39:31 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000108: Foreign keys: []
+2020-07-29 16:39:31 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000126: Indexes: [primary]
+2020-07-29 16:39:31 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000232: Schema update complete
+2020-07-29 16:44:52 INFO  org.hibernate.annotations.common.Version     - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2020-07-29 16:44:52 INFO  org.hibernate.Version     - HHH000412: Hibernate Core {4.2.0.Final}
+2020-07-29 16:44:52 INFO  org.hibernate.cfg.Environment     - HHH000205: Loaded properties from resource hibernate.properties: {hibernate.connection.driver_class=com.mysql.jdbc.Driver, hibernate.format_sql=true, hibernate.dialect=org.hibernate.dialect.MySQLDialect, hibernate.connection.password=****, hibernate.connection.username=root, hibernate.connection.url=jdbc:mysql://localhost/fj21, hibernate.bytecode.use_reflection_optimizer=false, hibernate.show_sql=true}
+2020-07-29 16:44:52 INFO  org.hibernate.cfg.Environment     - HHH000021: Bytecode provider name : javassist
+2020-07-29 16:44:52 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2020-07-29 16:44:52 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000115: Hibernate connection pool size: 20
+2020-07-29 16:44:52 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000006: Autocommit mode: true
+2020-07-29 16:44:52 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost/fj21?serverTimezone=UTC]
+2020-07-29 16:44:52 INFO  org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl     - HHH000046: Connection properties: {password=****, autocommit=true, release_mode=auto, user=root}
+2020-07-29 16:44:53 INFO  org.hibernate.dialect.Dialect     - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2020-07-29 16:44:53 INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator     - HHH000268: Transaction strategy: org.hibernate.engine.transaction.internal.jdbc.JdbcTransactionFactory
+2020-07-29 16:44:53 INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory     - HHH000397: Using ASTQueryTranslatorFactory
+2020-07-29 16:44:53 INFO  org.hibernate.validator.internal.util.Version     - HV000001: Hibernate Validator 4.3.1.Final
+2020-07-29 16:44:53 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000228: Running hbm2ddl schema update
+2020-07-29 16:44:53 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000102: Fetching database metadata
+2020-07-29 16:44:53 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000396: Updating schema
+2020-07-29 16:44:53 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000261: Table found: fj21.tarefa
+2020-07-29 16:44:53 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000037: Columns: [datafinalizacao, id, finalizado, descricao]
+2020-07-29 16:44:53 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000108: Foreign keys: []
+2020-07-29 16:44:53 INFO  org.hibernate.tool.hbm2ddl.TableMetadata     - HHH000126: Indexes: [primary]
+2020-07-29 16:44:53 INFO  org.hibernate.tool.hbm2ddl.SchemaUpdate     - HHH000232: Schema update complete
