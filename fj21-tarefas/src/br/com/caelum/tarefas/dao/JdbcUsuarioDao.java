@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import br.com.caelum.tarefas.ConnectionFactory;
 import br.com.caelum.tarefas.modelo.Usuario;
 
-public class JdbcUsuarioDao {
+public class JdbcUsuarioDao implements UsuarioDao{
 	private Connection connection;
 
 	public JdbcUsuarioDao() {
